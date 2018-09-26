@@ -1,0 +1,16 @@
+PODS:
+  - Designer (0.1.0)
+
+DEPENDENCIES:
+  - Designer (from `../`)
+
+EXTERNAL SOURCES:
+  Designer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Designer: 7561dc4aa8af285bc07293515ee6a484c89d8cae
+
+PODFILE CHECKSUM: 024d4e21fe17120f510d6657b207c7c0385bd1dc
+
+COCOAPODS: 1.5.3

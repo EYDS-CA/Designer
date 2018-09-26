@@ -1,0 +1,6 @@
+framework module Designer {
+  umbrella header "Designer-umbrella.h"
+
+  export *
+  module * { export * }
+}

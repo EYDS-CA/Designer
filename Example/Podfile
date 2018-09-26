@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Designer_Example' do
+  pod 'Designer', :path => '../'
+
+  target 'Designer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

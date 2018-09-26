@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = 'Add Designer to view controllers and style.'
 
-  s.homepage         = 'https://github.com/amirshayegh/Designer'
+  s.homepage         = 'https://github.com/FreshworksStudio/Designer'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'amirshayegh' => 'shayegh@me.com' }
-  s.source           = { :git => 'https://github.com/amirshayegh/Designer.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/FreshworksStudio/Designer.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
